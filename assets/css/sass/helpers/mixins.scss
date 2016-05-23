@@ -1,0 +1,11 @@
+@import "variables.scss";
+
+@mixin parrafo {
+	background-color: $gris;
+}
+@mixin texto{
+	color: $letra;
+}
+@mixin marg{
+	color: $borde;
+}

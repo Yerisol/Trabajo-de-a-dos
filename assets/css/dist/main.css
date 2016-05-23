@@ -1,0 +1,50 @@
+.bajobanner p {
+  display: inline-block;
+  padding: 2px;
+  font-size: 10px;
+  margin-right: 5px; }
+
+.fondo-rojo {
+  background-color: #FB0909; }
+
+#derecha {
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 5px; }
+
+.bg {
+  background-color: red;
+  width: 70%;
+  text-align: center; }
+
+#ides {
+  font-size: 30px; }
+
+.final {
+  background-color: #e2e6e9; }
+
+.cor {
+  margin-top: 10%; }
+
+.marg {
+  width: 250px;
+  height: 250px;
+  border: 3px solid #e2e2e2;
+  margin: 10px;
+  text-align: center;
+  padding-top: 25px; }
+
+.bl {
+  background-color: #e2e6e9;
+  width: 350px;
+  height: 100px;
+  margin-top: 20px; }
+  .bl span {
+    color: #667885; }
+
+.lado {
+  margin-right: 60%;
+  margin-top: 8%;
+  border: 3px solid white; }
+
+/*# sourceMappingURL=main.css.map */
