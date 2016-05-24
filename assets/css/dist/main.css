@@ -26,6 +26,31 @@
 .cor {
   margin-top: 10%; }
 
+/*footerFinal*/
+nav {
+  margin-top: 4%; }
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+nav li {
+  display: inline-block;
+  color: gray; }
+
+nav a {
+  text-decoration: none;
+  padding: 0 5px 0 5px;
+  color: gray;
+  font-size: 15px; }
+
+nav a:hover {
+  color: gray; }
+
+.separacionNav {
+  border-right: 1px solid gray; }
+
 .marg {
   width: 250px;
   height: 250px;
@@ -36,15 +61,20 @@
 
 .bl {
   background-color: #e2e6e9;
-  width: 350px;
+  margin-top: 20px;
   height: 100px;
-  margin-top: 20px; }
+  padding: 20px 0 0 20px;
+  font-size: 15px;
+  text-align: left; }
   .bl span {
     color: #667885; }
 
-.lado {
-  margin-right: 60%;
-  margin-top: 8%;
-  border: 3px solid white; }
+.media-object {
+  border: 3px solid white;
+  position: relative;
+  float: left; }
+
+.medio {
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
